@@ -7,12 +7,12 @@
 <!-- зона заголовка html, тег <title> - строка, которую браузер отображает на вкладках над страницами, <meta> и <link> сообщают технические сведения для браузера, например, что файл имеет кодировку Юникод (utf-8) -->
 
 	<head>
-		<title>Личная страница Веры Кузнецовой</title>
+		<title>Личная страница </title>
 	 	<!-- Required meta tags -->
 	 	<meta charset="utf-8">
 	 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<meta name="description" content="Личная страница и/ или контакты">
+		<meta name="description" content="Личная страница и контакты">
 
 		<!-- Bootstrap Core CSS -->
 		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -44,7 +44,7 @@
 
 <!-- начинается шапка. у тега header есть атрибут style, который задает цвет фона и отступы. поменяйте значения атрибутов и посмотрите, как изменится страница -->
 
-		<header style="background-color:plum; padding-top:40px; "> 
+		<header style="background-color:ivory; padding-top:40px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
@@ -57,7 +57,7 @@
 					<div class="col-md-4">
 <!-- img - тег для вставки изображений. Мы использовали атрибут style, чтобы задать размер изображения и ширину рамки-->
 <!-- Измените URL на URL вашей фотографии, а также настройте размер изображения -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg/368px-Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg" style="height:320px; margin:20px 20px 40px 20px; " >
+<img src="https://sun9-13.userapi.com/impg/dzJ2Sr06qAI1nMAXLLVItSsWjdhd5IYwlaVoRA/QtZ6NUVIhwA.jpg?size=800x560&quality=95&sign=a2dd5da834bc1c65e665f91f5b8497c6&type=album" style="height:320px; margin:20px 20px 40px 20px; " >
 					</div>
 				</div>
 			</div>
@@ -76,28 +76,22 @@
 						<p>Фундаментальная и прикладная лингвистика, НИУ ВШЭ, Москва</p>
 					</article>
 					<article>
-							<h3>Родной город</h2>
+						<h3>Родной город</h2>
 						<p>Новосибирск</p>
 					</article>
 					<article>
 						<h3>Школа</h2>
 <!-- когда будете менять текст, не используйте бюрократических слов типа ГБОУ СОШ, ну пожаалуйста -->
-						<p>СУНЦ НГУ</p>
+						<p>Брейкбилс</p>
 					</article>
 				</div>
 
 				<div class="col-md-6">
 					<article>
 						<h3>Тут можно написать</h2>
-						<p>Еще много много много много много много <br>
-						много <br>
-						много <br>
-						много <br>
-						много <br>
-						много <br>
-						много <br>
-						много <br>
-						всего о себе</p>
+						<p>А можно и нет <br>
+						._. <br>
+						я.</p>
 					</article>
 				</div>
 
